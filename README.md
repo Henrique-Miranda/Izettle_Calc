@@ -6,6 +6,10 @@ This software is made using Python3.5 and PySide.
 
 Recomended use of Python 3.4 if you run from source.
 
+#Download executable for Windows at:
+
+https://sourceforge.net/projects/izettlecalc/
+
 # Instruction:
 
 To run source code use:
