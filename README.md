@@ -24,6 +24,8 @@ https://www.python.org/
 
 https://wiki.qt.io/PySide
 
+http://www.pyinstaller.org/
+
 https://atom.io/
 
 https://manjaro.github.io/
