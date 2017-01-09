@@ -1,4 +1,4 @@
-# Izettle_Calc
+# Calculadora Izettle
 
 A simple calc of tax to Izettle system.
 
