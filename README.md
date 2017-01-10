@@ -8,7 +8,7 @@ Recomended use of Python 3.4 if you run from source.
 
 #Download executable for Windows at:
 
-https://sourceforge.net/projects/izettlecalc/
+https://sourceforge.net/projects/izettlecalc/files
 
 # Instruction:
 
